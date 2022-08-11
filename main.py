@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#informe o nome do arquivo.txt que deseja efetuar a leitura
+#informe o nome do arquivo.txt que deseja efetuar a leitura#
 arquivo = open('mef01.txt','r')
 separandoLinhas = []
 pertence = []
